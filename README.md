@@ -78,10 +78,15 @@ This project follows the **Medallion Architecture**, a best-practice data design
 - Improved data quality and consistency for analytics
 - Built a foundation for scalable, enterprise-grade data pipelines
 - Prepared datasets suitable for BI dashboards and advanced analytics
-  <img width="1488" height="716" alt="Screenshot 2026-01-18 at 9 05 41 PM" src="https://github.com/user-attachments/assets/a912acec-4a0d-4dea-89aa-73f0d08fd1bd" />
 
-  <img width="794" height="640" alt="Screenshot 2026-01-18 at 9 10 22 PM" src="https://github.com/user-attachments/assets/e0d242bc-8b93-4dc2-b5d8-5dafa2a63166" />
+<p align="center">
+  <img alt="Screenshot 2026-01-18 at 9 05 41 PM" src="https://github.com/user-attachments/assets/a912acec-4a0d-4dea-89aa-73f0d08fd1bd"  width="400" height="500" />
 
+</p>
+<p align="center">
+ 
+  <img alt="Screenshot 2026-01-18 at 9 10 22 PM" src="https://github.com/user-attachments/assets/e0d242bc-8b93-4dc2-b5d8-5dafa2a63166" width="400" height="500" />
+</p>
 
 ---
 
